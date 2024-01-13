@@ -1,0 +1,33 @@
+body
+{
+    background-color: black;
+    
+}
+.container
+{
+    height:70%;
+    width:60%;
+    position:absolute;
+    top:20%;
+    left:20%;
+    border-radius: 10px;
+    background-color: white;
+
+}
+.container button
+{
+    width: auto;
+    height:auto;
+
+}
+.container p
+{
+    font-weight: 800;
+    font-size: 3rem;
+    color: red;
+}
+#button
+{
+    position:absolute;
+    
+}
