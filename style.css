@@ -5,8 +5,8 @@ body
 }
 .container
 {
-    height:70%;
-    width:60%;
+    height:auto;
+    width:auto;
     position:absolute;
     top:20%;
     left:20%;
